@@ -1,0 +1,5 @@
+site_name: Delivery Tracker
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core

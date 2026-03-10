@@ -1,0 +1,5 @@
+site_name: Menu Platform
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core

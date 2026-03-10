@@ -1,0 +1,5 @@
+site_name: Kitchen Display System
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core

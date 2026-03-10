@@ -1,0 +1,5 @@
+site_name: Flavor Analytics
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core

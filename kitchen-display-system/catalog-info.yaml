@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: kitchen-display-system
+  description: Kitchen operations and order fulfillment display
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  owner: group:portal-interview/team-grill
+  domain: kitchen-operations

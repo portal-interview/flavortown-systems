@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: delivery-tracker
+  description: Real-time delivery tracking and logistics
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  owner: group:portal-interview/team-grill
+  domain: kitchen-operations

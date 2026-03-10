@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: menu-platform
+  description: Menu management and content platform
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  owner: group:portal-interview/team-triple-d
+  domain: customer-experience

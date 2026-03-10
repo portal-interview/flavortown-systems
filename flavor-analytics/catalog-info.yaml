@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: flavor-analytics
+  description: Data pipelines and flavor recommendation engine
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  owner: group:portal-interview/team-smoker
+  domain: data-and-analytics
