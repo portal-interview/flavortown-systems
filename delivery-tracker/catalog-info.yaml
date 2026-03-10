@@ -6,5 +6,5 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  owner: group:portal-interview/team-grill
+  owner: group:default/team-grill
   domain: kitchen-operations

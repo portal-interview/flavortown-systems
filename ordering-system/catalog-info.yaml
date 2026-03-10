@@ -6,5 +6,5 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  owner: group:portal-interview/team-triple-d
+  owner: group:default/team-triple-d
   domain: customer-experience
